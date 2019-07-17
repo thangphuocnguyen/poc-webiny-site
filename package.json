@@ -14,7 +14,6 @@
   },
   "devDependencies": {
     "@rescripts/cli": "^0.0.10",
-    "babel-loader": "^8.0.5",
     "cross-env": "^5.2.0",
     "mime": "1.4.1",
     "node-sass": "^4.9.3",
